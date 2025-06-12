@@ -12,9 +12,8 @@ I'm actively involved in my studies, attending seminars, workshops, group discus
 ## 🛠 Skills
 - Programming: Python, HTML, CSS, Javascript, Pascal, PHP
 - Web Framework : ReactJS, Bootstrap, tailwindcss
-- AI & Machine Learning: Neural Networks, Machine Translation basics
+- AI & Machine Learning
 - Data Processing & Analysis
-- Collaboration & Communication: Through various academic projects and group discussions
 
 ## 🌱 What's Next?
 I'm currently working under the guidance of my Academic Advisor, preparing to dive deeper into my research and contribute to the field of machine translation. 
